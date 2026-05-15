@@ -24,7 +24,7 @@ Objetivos:
 *   **Relação Risco e Retorno:** Compreender que, em geral, quanto maior o risco de um tomador de empréstimo ou de um investimento, maior será a taxa de juros exigida.
 
 #### Fontes utilizadas:
-https://www.institutoclaro.org.br/educacao/para-ensinar/planos-de-aula/educacao-financeira/ 
+https://www.institutoclaro.org.br/educacao/para-ensinar/planos-de-aula/educacao-financeira/
 https://www.educamaisbrasil.com.br/enem/educacao-financeira/taxa-de-juros
 https://blog.toroinvestimentos.com.br/educacao-financeira/taxa-de-juros-como-funciona/
 https://blog.ailos.coop.br/educacao-financeira/taxas-de-juros
